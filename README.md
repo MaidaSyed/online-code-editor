@@ -2,7 +2,7 @@
 
 A sleek, browser-based code editor built with **React** and **Vite**, supporting live HTML, CSS, and JavaScript preview. Designed for quick testing, learning, and sharing code on the fly.
 
-![Preview Screenshot](![image](https://github.com/user-attachments/assets/20f3dae6-9f90-496b-bff7-1980e8fc1d77))
+![Preview Screenshot](editor-overview.PNG)
 
 ---
 
