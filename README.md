@@ -1,12 +1,42 @@
-# React + Vite
+# 🖊️ Online Code Editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, browser-based code editor built with **React** and **Vite**, supporting live HTML, CSS, and JavaScript preview. Designed for quick testing, learning, and sharing code on the fly.
 
-Currently, two official plugins are available:
+![Preview Screenshot](![image](https://github.com/user-attachments/assets/20f3dae6-9f90-496b-bff7-1980e8fc1d77))
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔄 **Live Preview**: Instantly see your HTML, CSS, and JS output
+- 💾 **Auto Save**: Your code stays saved in the browser
+- 🌓 **Light/Dark Mode**: Toggle between light and dark themes
+- 🧠 **React Hooks**: Uses `useState`, `useEffect`, and `useLocalStorage`
+- 🛠️ **Modular Components**: Clean file structure and reusable editor component
+- ⚡ **Vite-Powered**: Fast dev experience
+
+---
+
+## 📦 Tech Stack
+
+| Frontend   | Tooling     |
+|------------|-------------|
+| React      | Vite        |
+| JavaScript | ESLint      |
+| HTML/CSS   | LocalStorage |
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/MaidaSyed/online-code-editor.git
+cd online-code-editor
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+
