@@ -1,6 +1,14 @@
 # 🖊️ Online Code Editor
 
 A sleek, browser-based code editor built with **React** and **Vite**, supporting live HTML, CSS, and JavaScript preview. Designed for quick testing, learning, and sharing code on the fly.
+---
+
+## 🚀 Live Demo
+
+Check out the live project here: 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live-Demo-blue?style=for-the-badge)](https://MaidaSyed.github.io/online-code-editor)
+
+---
 
 ![Preview Screenshot](editor-overview.PNG)
 
